@@ -3,17 +3,6 @@
 
 A web-based application built with **React.js** that provides users with various fitness tips to enhance their workout routines.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The **Fitness Tips App** is a lightweight and responsive web application that delivers fitness advice in a user-friendly format. It's perfect for anyone looking to get quick tips on improving their fitness routines. The app is fully responsive and offers a smooth, interactive user experience.
